@@ -1,5 +1,4 @@
 # hello-world
-For a new beginning
 
 Hi there, My name is Allen, still a rookie programmer, very welcome any suggestions about my codes!
 
